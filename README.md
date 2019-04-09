@@ -5,6 +5,8 @@ An Augmented Reality Treasure Hunt game Build using Unity and Vuforia
 
 This is the source code for **AR Treasure Hunt** for **Aaroh19**, techno-cultural fest conducted at **College of Engineering Adoor** on *Apr 5, 6 & 7, 2019*.
 
+![IMAGE](Screenshots/splash.png)
+
 Starter code and assets from https://github.com/fi-content2-games-platform/FIcontent.Gaming.Application.TreasureHunt
 
 ### N.B.
